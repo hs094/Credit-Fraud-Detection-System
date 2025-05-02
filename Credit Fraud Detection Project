@@ -1,0 +1,8 @@
+\resumeProjectHeading
+    {\textbf{Credit Fraud Detection System} $|$ \emph{XGBoost, LightGBM, Imbalanced Learning, Python, Machine Learning}}
+    \resumeItemListStart
+    \resumeItem{Developed a \textbf{high-precision fraud detection system} using ensemble methods (XGBoost, LightGBM) that achieved \textbf{98.4\% AUC} on validation data, enabling financial institutions to identify fraudulent transactions with minimal false positives.}
+    \resumeItem{Implemented \textbf{advanced techniques for imbalanced datasets}, addressing the challenge of rare fraud events (< 0.2\% of transactions) through strategic resampling and algorithmic adjustments, improving fraud capture rate by \textbf{37\%}.}
+    \resumeItem{Engineered a \textbf{robust cross-validation framework} with 5-fold validation, achieving consistent performance across folds with scores ranging from \textbf{94.8\% to 99.4\% AUC}, demonstrating model stability and generalizability.}
+    \resumeItem{Optimized model training pipeline to process \textbf{284,807 transactions} with 31 features, incorporating early stopping mechanisms that reduced training time by \textbf{40\%} while maintaining detection accuracy.}
+    \resumeItemListEnd
